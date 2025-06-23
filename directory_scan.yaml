@@ -1,0 +1,479 @@
+scan_info:
+  target_directory: /home/andrew/Projects/langchain-examples
+  total_folders: 2097
+  total_files: 18648
+  scan_duration_seconds: 7.24
+  scan_timestamp: '2025-04-09T12:58:05.452388'
+folders:
+- path: ''
+  files:
+  - id: 5a461c35-cfff-4ff8-979a-c094867d3a4d
+    folder: ''
+    file_name: kill-ollama-dead.sh
+    file_type: text/x-sh
+    metadata:
+      created_date: '2025-03-30T11:30:19.791226'
+      last_modified: '2025-03-30T11:30:19.790226'
+      last_reviewed: ''
+      size_bytes: 1058
+      hash: 819fe35c68b8a78e4d70adba37d322214c8907388c3719b5e73284a9fc704b53
+    description: ''
+    security_observations: ''
+  - id: 2c6699fb-b6e9-4344-89e4-7b449a2f1ae4
+    folder: ''
+    file_name: intro_6_ollama-langchain-memory.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-28T11:54:17.336751'
+      last_modified: '2025-03-26T14:40:24.503969'
+      last_reviewed: ''
+      size_bytes: 2561
+      hash: 0671e7addbe50d8e6f2aa199ab507237e14009e709c12e55f9dd2294f76a34b3
+    description: ''
+    security_observations: ''
+  - id: a8f2b863-f726-4a9e-94a2-2fb310abd791
+    folder: ''
+    file_name: intro_5_ollama-langchain-streaming.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-28T11:54:11.984759'
+      last_modified: '2025-03-26T14:51:07.786824'
+      last_reviewed: ''
+      size_bytes: 1788
+      hash: db4cc51a1fb8fd0ddfe0e0b5b67099ad2b1601eeb770ff0c642d1f22e68365b3
+    description: ''
+    security_observations: ''
+  - id: 4a7b7d35-ec59-4ced-aed5-5a500e7231dc
+    folder: ''
+    file_name: neo4j_2c-langchain-document-to-graph-adaptive.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-04-01T10:40:16.707488'
+      last_modified: '2025-04-01T10:40:16.707488'
+      last_reviewed: ''
+      size_bytes: 49703
+      hash: 9265ddff497d486d1fd43ca725b578deea2141938506c1fe29fea817ef8ce983
+    description: ''
+    security_observations: ''
+  - id: 236d6672-1f36-441b-bc9e-38dd321fddcc
+    folder: ''
+    file_name: dummytext.txt
+    file_type: text/plain
+    metadata:
+      created_date: '2025-03-29T12:23:59.254249'
+      last_modified: '2025-03-29T12:23:59.254249'
+      last_reviewed: ''
+      size_bytes: 11519
+      hash: 41730d187d2e58db871d7040f405c0f48661ffbca813f78ae7b4e60056fa575d
+    description: ''
+    security_observations: ''
+  - id: 9dafd91b-2035-4b96-95dc-20290af15fa5
+    folder: ''
+    file_name: intro_3_ollama-langchain-advanced-robust.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-28T11:54:02.598774'
+      last_modified: '2025-03-26T14:20:10.427533'
+      last_reviewed: ''
+      size_bytes: 7036
+      hash: 1efd289aee887f5ee8a428af3484abc11677e39fbe24d9c6bd190256efda1cd1
+    description: ''
+    security_observations: ''
+  - id: 1b7c717a-56a8-4522-896f-b37cf0c1000f
+    folder: ''
+    file_name: neo4j_4-langchain-neo4j-hybrid-RAG.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-29T19:53:42.198389'
+      last_modified: '2025-03-29T19:53:42.198389'
+      last_reviewed: ''
+      size_bytes: 26907
+      hash: b040ccf6b51c5bc402b0d9e8a07643211e59a8aed3e329590984f172ff3bf912
+    description: ''
+    security_observations: ''
+  - id: 23ae2d61-cb8b-49c3-bd19-a4fc4142e8ba
+    folder: ''
+    file_name: neo4j-entity-validation-workflow.sh
+    file_type: text/x-sh
+    metadata:
+      created_date: '2025-03-31T12:41:22.878931'
+      last_modified: '2025-03-31T12:41:22.878931'
+      last_reviewed: ''
+      size_bytes: 9412
+      hash: 33264dc0a3dc01ae0fd83e0c3dd4dc5eab6c499e9acd8da044e3856c57730272
+    description: ''
+    security_observations: ''
+  - id: 1c9eb7c1-4e7a-48b8-80e3-96a68222c3b4
+    folder: ''
+    file_name: neo4j_8-entity-validation.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-04-01T10:41:12.486956'
+      last_modified: '2025-04-01T10:41:12.486956'
+      last_reviewed: ''
+      size_bytes: 43943
+      hash: 33c5ac8e3e7ee3c489b52f55c82e68505c6f94d55b496b798134af0fd67df569
+    description: ''
+    security_observations: ''
+  - id: 1a45ff3f-1f65-47c6-a34b-b941feee6c84
+    folder: ''
+    file_name: neo4j_restore.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-30T13:46:09.009361'
+      last_modified: '2025-03-30T13:46:09.009361'
+      last_reviewed: ''
+      size_bytes: 11921
+      hash: 1f743a2aea9290682f361b5a0cbf749821dc2dec2634537d2c85cac8e0b397a2
+    description: ''
+    security_observations: ''
+  - id: 8b029957-b218-481b-80a6-8eabd6801610
+    folder: ''
+    file_name: intro_1_ollama-langchain-basic.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-29T10:30:54.659759'
+      last_modified: '2025-03-29T10:30:54.659759'
+      last_reviewed: ''
+      size_bytes: 793
+      hash: 743adbe76351e6865bd6a21ddf735c6184ffbff2d1adc10eee7198e2570c6928
+    description: ''
+    security_observations: ''
+  - id: 9e9df835-da81-4eae-9743-22770d738764
+    folder: ''
+    file_name: neo4j_3-langchain-graph-to-vector-store.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-04-01T10:36:05.485362'
+      last_modified: '2025-04-01T10:36:05.485362'
+      last_reviewed: ''
+      size_bytes: 42920
+      hash: 57de5373bfc093d414a03a8fe2ff54ab8138e8055954a2b20f32f057ee82e486
+    description: ''
+    security_observations: ''
+  - id: ec5dd70b-0907-4d10-b345-be63969b77ca
+    folder: ''
+    file_name: intro_4_ollama-langchain-structured.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-28T11:54:07.609766'
+      last_modified: '2025-03-26T14:26:22.547957'
+      last_reviewed: ''
+      size_bytes: 2310
+      hash: f3f24c25280773a29b3221918c070e8f1151babedecebe549411527908f98450
+    description: ''
+    security_observations: ''
+  - id: d3bddf5e-1623-40cb-bdb4-a9ad131eb10b
+    folder: ''
+    file_name: neo4j_backup.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-30T13:46:00.320344'
+      last_modified: '2025-03-30T13:46:00.320344'
+      last_reviewed: ''
+      size_bytes: 9475
+      hash: 8d3c968a7dee27972d67be323f45cf2587bb3edac68daa6aa7d9882f3e819e2a
+    description: ''
+    security_observations: ''
+  - id: 0c5b18d0-ad6b-4403-b2e8-ebc915376190
+    folder: ''
+    file_name: intro_7_ollama-langchain-model-switching.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-28T11:54:21.989745'
+      last_modified: '2025-03-26T14:29:16.392531'
+      last_reviewed: ''
+      size_bytes: 5193
+      hash: 71448efd38e69f380d9f8d11ca25573b3df26bac0eff9507e885ed53f86d773b
+    description: ''
+    security_observations: ''
+  - id: aa4def96-81f6-473e-93ef-1474ace31237
+    folder: ''
+    file_name: neo4j_1-langchain-connect.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-28T11:59:59.939109'
+      last_modified: '2025-03-28T11:59:59.939109'
+      last_reviewed: ''
+      size_bytes: 687
+      hash: 311d022608fc0b3f809785a12e4a05d0e1c71e72c26f658897314a9411e9595e
+    description: ''
+    security_observations: ''
+  - id: d58b572c-0d57-4a0f-a519-8c071ad83c67
+    folder: ''
+    file_name: neo4j_9-entity-duplicate-detection.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-04-01T10:16:42.262081'
+      last_modified: '2025-04-01T10:16:42.262081'
+      last_reviewed: ''
+      size_bytes: 77637
+      hash: 8c06557348ba274d627e6f075b5b091653fdc6e5278fbd80722c4727921b9e71
+    description: ''
+    security_observations: ''
+  - id: 32082973-8b54-41dc-9cf9-7ccc08f68863
+    folder: ''
+    file_name: neo4j_2a-langchain-document-to-graph-series.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-29T12:17:02.299598'
+      last_modified: '2025-03-29T11:35:04.758090'
+      last_reviewed: ''
+      size_bytes: 18276
+      hash: cfd63867afd65e0364b1b689d91e84d3f950bbb907c71128b75a6a1de5b6646b
+    description: ''
+    security_observations: ''
+  - id: 010b1846-333f-464a-a172-70ad33ac1b57
+    folder: ''
+    file_name: neo4j-backup-restore-workflow.sh
+    file_type: text/x-sh
+    metadata:
+      created_date: '2025-03-30T13:43:51.929865'
+      last_modified: '2025-03-30T13:36:24.031710'
+      last_reviewed: ''
+      size_bytes: 4950
+      hash: 81734d574b7fd54f87c31461f17d80435b4710520bdfc442b8390dab3ca035e5
+    description: ''
+    security_observations: ''
+  - id: 1be733d5-4baa-4a6f-b703-de4fa6aed859
+    folder: ''
+    file_name: neo4j_5-llm-graph-search.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-30T16:34:13.591498'
+      last_modified: '2025-03-30T16:34:13.591498'
+      last_reviewed: ''
+      size_bytes: 16235
+      hash: 4769aecd90b18a70bdeb60499632221d6db55300d6fcbca0018275cad54ce9ae
+    description: ''
+    security_observations: ''
+  - id: 04a00f68-64a2-4c54-b8fd-40b1f9196c6d
+    folder: ''
+    file_name: neo4j-entity-interest-extraction-workflow.sh
+    file_type: text/x-sh
+    metadata:
+      created_date: '2025-03-31T11:44:02.251152'
+      last_modified: '2025-03-31T11:44:02.251152'
+      last_reviewed: ''
+      size_bytes: 17857
+      hash: 22684cd5fea69ba22136a3d828b74d51ae4753bddca2facfdf15ae684e5cf1d9
+    description: ''
+    security_observations: ''
+  - id: 31a93835-a617-49b0-a2ab-27da4257499f
+    folder: ''
+    file_name: neo4j_2b.ii-langchain-document-to-graph-adaptive.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-29T20:05:00.891800'
+      last_modified: '2025-03-29T20:04:09.753393'
+      last_reviewed: ''
+      size_bytes: 28458
+      hash: 37378b050ad8ae7dd88ef563af486a2862450d5741094bd4f75c0f53f788da9e
+    description: ''
+    security_observations: ''
+  - id: b0e47580-76c1-48e7-8b78-c1a89ecdbff9
+    folder: ''
+    file_name: neo4j-5-workflow.sh
+    file_type: text/x-sh
+    metadata:
+      created_date: '2025-03-30T09:08:31.019236'
+      last_modified: '2025-03-30T09:08:31.019236'
+      last_reviewed: ''
+      size_bytes: 12961
+      hash: 8f3fe2e373b09a4bddf6ff8ee7645e4ae518d830698c3cc06e74388b1b05952e
+    description: ''
+    security_observations: ''
+  - id: 0d25d400-a5b8-40af-a257-eaa13b1a6b0d
+    folder: ''
+    file_name: ___security-step-1.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-04-09T12:57:18.715891'
+      last_modified: '2025-04-09T12:57:18.715891'
+      last_reviewed: ''
+      size_bytes: 11526
+      hash: 2ab3d2cbc9e28f7ae13bf2c456029c1bea0cbfaec4f39243545f61551edfd059
+    description: ''
+    security_observations: ''
+  - id: 4a2315e9-502c-4cc6-90a2-b78f51179afc
+    folder: ''
+    file_name: cyber-poc-C2M2-workflow.sh
+    file_type: text/x-sh
+    metadata:
+      created_date: '2025-04-08T17:11:57.403352'
+      last_modified: '2025-04-08T17:11:57.403352'
+      last_reviewed: ''
+      size_bytes: 12967
+      hash: 7640903773666aabfaa935a7e4f2c2d993072885304771a16ab9e333adcfe025
+    description: ''
+    security_observations: ''
+  - id: 39db4e17-0577-46c6-81f7-7b3e7f877256
+    folder: ''
+    file_name: docker-compose.yml
+    file_type: application/yaml
+    metadata:
+      created_date: '2025-03-28T13:54:26.670722'
+      last_modified: '2025-03-28T13:54:26.670722'
+      last_reviewed: ''
+      size_bytes: 747
+      hash: 140d989bf243524ef840707ddfbb01b8d1c80dfc1b5b98c5fdb28e4c048b85b3
+    description: ''
+    security_observations: ''
+  - id: 205f4645-d46c-48b9-9a75-8f73760019fe
+    folder: ''
+    file_name: neo4j-entity-duplicate-detection-workflow.sh
+    file_type: text/x-sh
+    metadata:
+      created_date: '2025-04-01T09:37:37.224227'
+      last_modified: '2025-04-01T09:37:37.224227'
+      last_reviewed: ''
+      size_bytes: 11518
+      hash: cba83e00e469e456526b20a68bfdc63a12c5ebe6a9407f8020017a80b03e27b8
+    description: ''
+    security_observations: ''
+  - id: a33ad79e-0c22-461e-932e-32c475e001b4
+    folder: ''
+    file_name: neo4j_2b.i-langchain-document-to-graph-parallel.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-29T20:05:09.304867'
+      last_modified: '2025-03-29T13:32:08.459308'
+      last_reviewed: ''
+      size_bytes: 25374
+      hash: c8db86276047561f8a7f329af2a21074147be6ae30e71831e22b3064c55aa496
+    description: ''
+    security_observations: ''
+  - id: 395a4f9b-a534-419e-bee3-552bfb9e440e
+    folder: ''
+    file_name: neo4j_7-neo4j-entity-focused-extraction.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-04-09T12:48:50.414672'
+      last_modified: '2025-04-09T12:48:50.414672'
+      last_reviewed: ''
+      size_bytes: 44309
+      hash: bafee12636518250cb73b933c23838c67993d64fe728833b44047b8087328a0b
+    description: ''
+    security_observations: ''
+  - id: 7e76807c-3a3f-4184-8c65-2141f75c4dfa
+    folder: ''
+    file_name: neo4j_6-enhanced-hybrid-RAG.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-30T16:30:02.221795'
+      last_modified: '2025-03-30T16:30:02.221795'
+      last_reviewed: ''
+      size_bytes: 40419
+      hash: 45afde43c823c9e4e23914176a891b57bd0d66e0c044000d5ecd9aee84230bd9
+    description: ''
+    security_observations: ''
+  - id: ef8ecac4-1ec9-47de-b681-c93654fe3316
+    folder: ''
+    file_name: cyber-poc_1_ollama-langchain-memory.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-04-06T19:17:32.207565'
+      last_modified: '2025-04-06T19:17:32.207565'
+      last_reviewed: ''
+      size_bytes: 17518
+      hash: 7418b8a4079415d59c39602cff706d51888b648063f3faeccc963d5fa980e687
+    description: ''
+    security_observations: ''
+  - id: 25d6580b-bb66-4d20-ac3b-3f565503ee80
+    folder: ''
+    file_name: intro_2_ollama-langchain-interactive.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-03-28T11:53:57.319782'
+      last_modified: '2025-03-26T13:55:42.586583'
+      last_reviewed: ''
+      size_bytes: 2119
+      hash: 80dd9cad5be5cceeef6fbb93007450ddad6280e1022671258627cbc96255e8a8
+    description: ''
+    security_observations: ''
+  - id: 6495624d-ba14-49c4-88bf-427afff82449
+    folder: ''
+    file_name: cyber-poc_2-langchain-document-to-graph-adaptive.py
+    file_type: text/x-python
+    metadata:
+      created_date: '2025-04-09T12:46:41.605447'
+      last_modified: '2025-04-09T12:46:41.605447'
+      last_reviewed: ''
+      size_bytes: 51360
+      hash: 6f87dc37d3355aa44a800ff259fbd3cc98f63c071bfa309b718778f4ae35185d
+    description: ''
+    security_observations: ''
+  - id: 4cfc5f20-2ccd-4a36-9b3b-6e20f221bd6a
+    folder: ''
+    file_name: readme.md
+    file_type: text/markdown
+    metadata:
+      created_date: '2025-03-29T14:14:00.164949'
+      last_modified: '2025-03-29T14:14:00.164949'
+      last_reviewed: ''
+      size_bytes: 6439
+      hash: 4f6c5d9c9b2a82b555537dcd02f34f092afea1aed999a16af3f314d4e936fd1d
+    description: ''
+    security_observations: ''
+- path: logs
+  files:
+  - id: b196fcdf-7f1a-4ae0-9e64-05a2125f6f74
+    folder: logs
+    file_name: neo4j.log
+    file_type: unknown.log
+    metadata:
+      created_date: '2025-04-09T12:03:32.315602'
+      last_modified: '2025-04-09T12:03:32.315602'
+      last_reviewed: ''
+      size_bytes: 31156
+      hash: c75908e315bc158420dd111ce1b94795f9776bc55da476e93f49940ef14554b6
+    description: ''
+    security_observations: ''
+  - id: 4d48a264-57af-49c7-8411-c9869393ddcd
+    folder: logs
+    file_name: query.log
+    file_type: unknown.log
+    metadata:
+      created_date: '2025-03-29T23:41:19.545182'
+      last_modified: '2025-03-29T23:41:19.545182'
+      last_reviewed: ''
+      size_bytes: 0
+      hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    description: ''
+    security_observations: ''
+  - id: ec127134-e981-4884-a004-ae4578a57f40
+    folder: logs
+    file_name: debug.log
+    file_type: unknown.log
+    metadata:
+      created_date: '2025-04-09T12:56:40.166594'
+      last_modified: '2025-04-09T12:56:40.166594'
+      last_reviewed: ''
+      size_bytes: 2861208
+      hash: dacbb5e3094ddcfea36deb0718e95933c50f8ac8a65ed9d6c270c8fdf3d14830
+    description: ''
+    security_observations: ''
+  - id: 6d4d43bd-964d-49d6-b439-c1673ac322f6
+    folder: logs
+    file_name: security.log
+    file_type: unknown.log
+    metadata:
+      created_date: '2025-03-29T23:41:19.546182'
+      last_modified: '2025-03-29T23:41:19.546182'
+      last_reviewed: ''
+      size_bytes: 0
+      hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    description: ''
+    security_observations: ''
+  - id: c8af7e0d-8752-40b5-94fc-cc98bc7483de
+    folder: logs
+    file_name: http.log
+    file_type: unknown.log
+    metadata:
+      created_date: '2025-03-29T23:41:19.544182'
+      last_modified: '2025-03-29T23:41:19.544182'
+      last_reviewed: ''
+      size_bytes: 0
+      hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    description: ''
+    security_observations: ''

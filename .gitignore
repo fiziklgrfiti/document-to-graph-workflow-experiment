@@ -1,0 +1,24 @@
+# Ignore environment variables file with sensitive information
+.env
+
+# Ignore Neo4j data, logs, and import directories
+/data/
+/logs/
+/import/
+bin/
+discovery_reports/
+extracted_entities/
+include/
+lib/
+lib
+lib64/
+lib64
+neo4j/
+resolution_plans/
+share/
+validation_reports/
+pyvenv.cfg
+
+# Ignore other common files
+.DS_Store
+node_modules/
