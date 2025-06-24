@@ -696,6 +696,7 @@ class ProgressTracker:
         self.progress_bar.close()
 
 # Main function to process documents and build graph with improved error handling and timeout detection
+# Main function to process documents and build graph with improved error handling and timeout detection
 def process_document_to_graph(
     document_path: str, 
     chunk_size: int = None, 
@@ -841,6 +842,9 @@ def process_document_to_graph(
                     # Only mark chunks as active when they're actually being processed
                     active_chunks = [False] * len(chunks)
                     
+                    # Add start_time definition here for the global timeout check
+                    start_time = time.time()
+                    
                     for i, arg in enumerate(chunk_args):
                         # Only mark the first max_workers chunks as active initially
                         if i < max_workers:
@@ -934,16 +938,17 @@ def process_document_to_graph(
             if save_data and all_extracted_data:
                 save_extracted_data(all_extracted_data, output_file)
         
-        if not merged_data.get('entities') and not merged_data.get('relationships'):
-            print("\n⚠️ Error: No entities or relationships were found after merging extracted data.")
-            print("Please check if your document contains the expected content or try adjusting chunking parameters.")
-            return
-        
         # Merge data from all chunks
         print("\nMerging data from all chunks...")
         merged_data = merge_extracted_data(all_extracted_data)
         
         print(f"✓ Total extracted: {len(merged_data['entities'])} unique entities and {len(merged_data['relationships'])} unique relationships")
+        
+        # NOW check if merged data is empty (moved after merging)
+        if not merged_data.get('entities') and not merged_data.get('relationships'):
+            print("\n⚠️ Error: No entities or relationships were found after merging extracted data.")
+            print("Please check if your document contains the expected content or try adjusting chunking parameters.")
+            return
         
         # Preview some of the extracted entities
         if merged_data['entities']:

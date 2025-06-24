@@ -1,0 +1,5 @@
+,
+C2M2 PRACTICE ID,C2M2 PRACTICE DESCRIPTION
+ASSET-1a,"IT and OT assets that are important to the delivery of the function are inventoried, at least in an ad hoc manner"
+ASSET-1b,The IT and OT asset inventory includes assets within the function that may be leveraged to achieve a threat objective
+ASSET-1c,Inventoried IT and OT assets are prioritized based on defined criteria that include importance to the delivery of the function
